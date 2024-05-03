@@ -6,6 +6,8 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.*;
 
+
+// Евстифеев Егор РПО2
 public class Main {
     public static void main(String[] args) {
         String htmlParse = parsingSite("data/code.html");
